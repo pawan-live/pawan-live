@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Inventory management system with PHP in the backend
+- 🔭 I’m currently working on an Inventory management system with PHP
 
 <!--
 **pawan-live/pawan-live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
