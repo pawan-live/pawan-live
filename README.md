@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on an Inventory management system with PHP
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pawan-live&theme=react&hide_border=true)](https://git.io/streak-stats)
+
 <!--
 **pawan-live/pawan-live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
