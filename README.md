@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Inventory management system with PHP
+- 💻 I’m currently working on a [timetable app 🗓](https://github.com/pawan-live/timetable-app)<br>
+- 🧑‍💻 Learning React JS <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="21px">
+- 😀 Loves building stuff with code
+- 👀 I do design as a hobby
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pawan-live&theme=react&hide_border=true)](https://git.io/streak-stats)
 
