@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on a [timetable app 🗓](https://github.com/pawan-live/timetable-app)<br>
+- 💻 I’m currently working on a Recipe App with React<br>
 - 🧑‍💻 Learning React JS <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="21px">
 - 😀 Loves building stuff with code
 - 👀 I do design as a hobby
