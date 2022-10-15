@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on some freelance javascript projects 💼 <br>
-- 🧑‍💻 Learning Java ☕️ & React JS <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="21px">
+- 💻 Currently working on a university project with Java ☕️ <br>
+- 🧑‍💻 Learning Java ☕️ & React <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="21px">
 - 😀 Loves building stuff with code
 - 👀 I do design as a hobby
 
