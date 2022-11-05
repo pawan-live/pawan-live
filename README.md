@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Currently working on a university project with Java ☕️ <br>
+- 💻 Learning these days: Bootstrap / Java<br>
 - 🧑‍💻 Learning Java ☕️ & React <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="21px">
 - 😀 Loves building stuff with code
 - 👀 I do design as a hobby
