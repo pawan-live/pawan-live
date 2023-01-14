@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 💻 Currently working on a side project 🎉<br>
-- 🧑‍💻 Learning Java ☕️ & React <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="21px">
+- 💻 Working as a junior web dev & working on some several side projects 🎉<br>
+- 🧑‍💻 Currently learning/ working with MERN stack and WEB3.0
+- 🚀 Super stoked about OpenAI & Web3.0
 - 😀 Loves building stuff with code
 - 👀 I do design as a hobby
 
