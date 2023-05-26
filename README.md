@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Working as a junior web dev while working on several full stack side projects 🎉<br>
+- 💻 SE Intern (Fullstack) | SE Undergraduate @ SLIIT<br>
 - 🧑‍💻 Currently learning/ working with MERN stack and WEB3.0
 - 🚀 Super stoked about OpenAI & Web3.0
 - 😀 Loves building stuff with code
