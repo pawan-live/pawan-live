@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 - 💻 SE Intern (Fullstack) | SE Undergraduate @ SLIIT<br>
-- 🧑‍💻 Currently learning/ working with MERN stack and WEB3.0
-- 🚀 Super stoked about OpenAI & Web3.0
-- 😀 Loves building stuff with code
-- 👀 I do design as a hobby
+- 🧑‍💻 Currently learning 👇
+<br><br>[![TS, React, NEST, NEXT](https://skillicons.dev/icons?i=ts,react,nestjs,nextjs)]()
 
 Connect with me [here](https://itspawanlive.me)
 
