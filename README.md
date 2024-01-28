@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 SE Intern (Fullstack) | SE Undergraduate @ SLIIT<br>
+- 💻 SE Intern at Rootcode (Fullstack) | SE Undergraduate @ SLIIT<br>
 - 🧑‍💻 Currently learning 👇
 <br><br>[![TS, React, NEST, NEXT](https://skillicons.dev/icons?i=ts,react,nestjs,nextjs)]()
 
